@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+#nav{
+    background-color: darkblue;
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 12px 0px 12px 5px;
+}
+.menu{
+    display: inline;
+    margin: 5px;
+    text-transform: uppercase;
+    color: aliceblue;
+    transition: 1s;
+    padding: 5pt;
+}
+.menu:hover{
+    color: cyan;
+    background-color: aliceblue;
+    border-radius: 5pt;
+    transition: 1s;
+}

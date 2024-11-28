@@ -1,0 +1,18 @@
+h1, h2, h3, p, a{
+    color: black;
+    font-family: 'Franklin Gothic Medium','arial narrow', Arial, sans-serif;
+}
+h1, h2, h3{
+    width: 100%;
+    text-align: center;
+}
+#watsapp:hover{
+    background-image: linear-gradient(to right, green, lime);
+    border-radius: 20pt;
+    padding: 10px;
+    transition: 1s;
+}
+#watsapp{
+    transition: 1s;
+}
+#instagram{transition: 1s;}
